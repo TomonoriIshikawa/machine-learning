@@ -12,6 +12,7 @@ clf = KNeighborsClassifier(n_neighbors = 1)
 clf.fit(learn_data, learn_label)
 
 test_data = [[0,0], [1,0], [0,1], [1,1]]
+
 test_label = clf.predict(test_data)
 
 print(test_data , "の予測結果:" , test_label)
