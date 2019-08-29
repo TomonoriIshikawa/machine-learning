@@ -1,6 +1,6 @@
 # machine-learning
 
-機械学習の技術をアップして行きます。
+## 機械学習の技術をアップして行きます。
 
 sin_graph.py sin関数のグラフ描画
 
